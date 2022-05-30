@@ -1,7 +1,9 @@
 # Offline-clothing-store
 Offline clothing store developed in Windows Worms .NET
 
-![Hi, I'm Sebastian](https://raw.githubusercontent.com/SebaPrieto1/Offline-clothing-store/main/Iconos/app.png)
+<p align="center">
+  <img height="500" src="https://raw.githubusercontent.com/SebaPrieto1/Offline-clothing-store/main/Iconos/app.png" />
+</p>
 
 ## Utilities
 * Create users
