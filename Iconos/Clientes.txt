@@ -1,0 +1,5 @@
+Sebastian;Prieto;40145921;258600
+Fulano;Detal;1;4300
+Jaime;Rubbix;33202803;6000
+Florencia;Prieto;43912288;12000
+Pedro;Lapiz;88888888;10000

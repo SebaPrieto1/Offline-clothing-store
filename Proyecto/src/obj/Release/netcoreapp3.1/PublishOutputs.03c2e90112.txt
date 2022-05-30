@@ -1,0 +1,5 @@
+C:\Users\sebap\Desktop\Ejecutable\ProyectoFInal.exe
+C:\Users\sebap\Desktop\Ejecutable\ProyectoFInal.dll
+C:\Users\sebap\Desktop\Ejecutable\ProyectoFInal.deps.json
+C:\Users\sebap\Desktop\Ejecutable\ProyectoFInal.runtimeconfig.json
+C:\Users\sebap\Desktop\Ejecutable\ProyectoFInal.pdb

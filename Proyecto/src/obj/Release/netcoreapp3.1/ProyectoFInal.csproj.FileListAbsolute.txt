@@ -1,0 +1,42 @@
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\bin\Release\netcoreapp3.1\ProyectoFInal.exe
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\bin\Release\netcoreapp3.1\ProyectoFInal.deps.json
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\bin\Release\netcoreapp3.1\ProyectoFInal.runtimeconfig.json
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\bin\Release\netcoreapp3.1\ProyectoFInal.runtimeconfig.dev.json
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\bin\Release\netcoreapp3.1\ProyectoFInal.dll
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\bin\Release\netcoreapp3.1\ProyectoFInal.pdb
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\obj\Release\netcoreapp3.1\ProyectoFInal.csproj.AssemblyReference.cache
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\obj\Release\netcoreapp3.1\ProyectoFInal.Form1.resources
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\obj\Release\netcoreapp3.1\ProyectoFInal.ModAdmin.resources
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\obj\Release\netcoreapp3.1\ProyectoFInal.ModCompras.resources
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\obj\Release\netcoreapp3.1\ProyectoFInal.ModProductos.resources
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\obj\Release\netcoreapp3.1\ProyectoFInal.ModTarjetas.resources
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\obj\Release\netcoreapp3.1\ProyectoFInal.Properties.Resources.resources
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\obj\Release\netcoreapp3.1\ProyectoFInal.csproj.GenerateResource.cache
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\obj\Release\netcoreapp3.1\ProyectoFInal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\obj\Release\netcoreapp3.1\ProyectoFInal.AssemblyInfoInputs.cache
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\obj\Release\netcoreapp3.1\ProyectoFInal.AssemblyInfo.cs
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\obj\Release\netcoreapp3.1\ProyectoFInal.csproj.CoreCompileInputs.cache
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\obj\Release\netcoreapp3.1\ProyectoFInal.dll
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\obj\Release\netcoreapp3.1\ProyectoFInal.pdb
+C:\Users\sebap\Desktop\Trabajo integrador\ProyectoFInal\ProyectoFInal\obj\Release\netcoreapp3.1\ProyectoFInal.genruntimeconfig.cache
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\bin\Release\netcoreapp3.1\ProyectoFInal.exe
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\bin\Release\netcoreapp3.1\ProyectoFInal.deps.json
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\bin\Release\netcoreapp3.1\ProyectoFInal.runtimeconfig.json
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\bin\Release\netcoreapp3.1\ProyectoFInal.runtimeconfig.dev.json
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\bin\Release\netcoreapp3.1\ProyectoFInal.dll
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\bin\Release\netcoreapp3.1\ProyectoFInal.pdb
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\obj\Release\netcoreapp3.1\ProyectoFInal.csproj.AssemblyReference.cache
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\obj\Release\netcoreapp3.1\ProyectoFInal.Form1.resources
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\obj\Release\netcoreapp3.1\ProyectoFInal.ModAdmin.resources
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\obj\Release\netcoreapp3.1\ProyectoFInal.ModCompras.resources
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\obj\Release\netcoreapp3.1\ProyectoFInal.ModProductos.resources
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\obj\Release\netcoreapp3.1\ProyectoFInal.ModTarjetas.resources
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\obj\Release\netcoreapp3.1\ProyectoFInal.Properties.Resources.resources
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\obj\Release\netcoreapp3.1\ProyectoFInal.csproj.GenerateResource.cache
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\obj\Release\netcoreapp3.1\ProyectoFInal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\obj\Release\netcoreapp3.1\ProyectoFInal.AssemblyInfoInputs.cache
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\obj\Release\netcoreapp3.1\ProyectoFInal.AssemblyInfo.cs
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\obj\Release\netcoreapp3.1\ProyectoFInal.csproj.CoreCompileInputs.cache
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\obj\Release\netcoreapp3.1\ProyectoFInal.dll
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\obj\Release\netcoreapp3.1\ProyectoFInal.pdb
+C:\Users\sebap\Documents\C codes\POO final project\Offline-clothing-store\Proyecto\src\obj\Release\netcoreapp3.1\ProyectoFInal.genruntimeconfig.cache

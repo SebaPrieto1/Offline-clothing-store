@@ -1,0 +1,3 @@
+Visa;Provincia;10000
+Mastercard;Rio;0
+AmericanEX;Santander;0
